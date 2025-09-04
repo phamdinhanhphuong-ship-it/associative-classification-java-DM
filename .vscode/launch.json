@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MainTestCMARdiffset_batch_kfold",
+            "request": "launch",
+            "mainClass": "MainTestCMARdiffset_batch_kfold",
+            "projectName": "CMARDiffset_a97b91f"
+        },
+        {
+            "type": "java",
+            "name": "MainTestCMAR_batch_kfold_3",
+            "request": "launch",
+            "mainClass": "MainTestCMAR_batch_kfold_3",
+            "projectName": "CMARDiffset_a97b91f"
+        },
+        {
+            "type": "java",
+            "name": "MainTestCMAR_batch_kfold_3",
+            "request": "launch",
+            "mainClass": "MainTestCMAR_batch_kfold_3",
+            "projectName": "CMARDiffset_e279e4ad"
+        },
+        {
+            "type": "java",
+            "name": "MainTestCMAR_batch_kfold_3",
+            "request": "launch",
+            "mainClass": "MainTestCMAR_batch_kfold_3",
+            "projectName": "CMARDiffset_51533611"
+        },
+        {
+            "type": "java",
+            "name": "MainTestCMAR_batch_kfold_2",
+            "request": "launch",
+            "mainClass": "MainTestCMAR_batch_kfold_2",
+            "projectName": "CMARDiffset_51533611"
+        },
+        {
+            "type": "java",
+            "name": "MainTestCMAR_batch_holdout",
+            "request": "launch",
+            "mainClass": "MainTestCMAR_batch_holdout",
+            "projectName": "CMARDiffset_51533611"
+        },
+        {
+            "type": "java",
+            "name": "MainTestCMAR_batch_kfold_tct",
+            "request": "launch",
+            "mainClass": "MainTestCMAR_batch_kfold_tct",
+            "projectName": "CMARDiffset_51533611"
+        },
+        {
+            "type": "java",
+            "name": "MainTestCMAR_batch_kfold",
+            "request": "launch",
+            "mainClass": "MainTestCMAR_batch_kfold",
+            "projectName": "CMARDiffset_51533611"
+        },
+        {
+            "type": "java",
+            "name": "MainTestCMARdiffset_batch_kfold",
+            "request": "launch",
+            "mainClass": "MainTestCMARdiffset_batch_kfold",
+            "projectName": "CMARDiffset_51533611"
+        },
+        {
+            "type": "java",
+            "name": "MainTestCMARdiffset_single_prediction",
+            "request": "launch",
+            "mainClass": "MainTestCMARdiffset_single_prediction",
+            "projectName": "CMARDiffset_51533611"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MainTestCMAR_batch_holdout",
+            "request": "launch",
+            "mainClass": "MainTestCMAR_batch_holdout",
+            "projectName": "CMAR_87c9228c"
+        },
+        {
+            "type": "java",
+            "name": "MainTestCMAR_batch_kfold",
+            "request": "launch",
+            "mainClass": "MainTestCMAR_batch_kfold",
+            "projectName": "CMAR_87c9228c"
+        },
+        {
+            "type": "java",
+            "name": "MainTestCMAR_batch_kfold_tct",
+            "request": "launch",
+            "mainClass": "MainTestCMAR_batch_kfold_tct",
+            "projectName": "CMAR_87c9228c"
+        },
+        {
+            "type": "java",
+            "name": "MainTestCMAR_single_prediction",
+            "request": "launch",
+            "mainClass": "MainTestCMAR_single_prediction",
+            "projectName": "CMAR_87c9228c"
+        },
+        {
+            "type": "java",
+            "name": "MemoryLoggerTest",
+            "request": "launch",
+            "mainClass": "tools.MemoryLoggerTest",
+            "projectName": "CMAR_87c9228c"
+        }
+    ]
+}
